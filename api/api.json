@@ -1,0 +1,7 @@
+{
+    "InstallerVersion": "2.0.0",
+    "SupportedClient": "version-43ad1853ad91427d",
+    "SoftwareVersion": "2.4.0",
+    "BootstrapperUrl": "https://github.com/KribbyWare/Atx/raw/main/Installer-Archive/AtxInstaller.exe",
+    "VersionUrl":"https://clientsettings.roblox.com/v2/client-version/WindowsPlayer/channel/live"
+}
